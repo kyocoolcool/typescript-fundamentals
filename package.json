@@ -1,0 +1,28 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "TypeScript Fundamentals",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "@types/jquery": "3.3.29",
+    "@types/sizzle":"2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyocoolcool/typescript-fundamentals.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Chris Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyocoolcool/typescript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/kyocoolcool/typescript-fundamentals#readme"
+}
